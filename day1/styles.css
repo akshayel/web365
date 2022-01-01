@@ -1,0 +1,59 @@
+/** GENERAL **/
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+html {
+    margin: 5%;
+}
+
+/**HOME**/
+
+nav > ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    background-color: #000000;
+    color: #FFFFFF;
+    border-radius: 10px;
+    border-style: solid;
+    font-weight: bold;
+}
+
+/**CONTACT US**/
+.form-div {
+    display: grid;
+    grid-template-columns: max-content max-content;
+    grid-gap: 5px;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.form-div label.form-align {
+    text-align: right;
+}
+
+.form-div label.form-align:after {
+    content: ":";
+}
+
+/** 
+^^ I have no idea what that means. 
+I copied from stack overflow.
+I'm trying to get the form's labels and fields to neatly align with each other.
+**/
+
+.form input[type="submit"] {
+    background-color: #000000;
+    color: #FFFFFF;
+    border-radius: 10px;
+    border-style: solid;
+    font-weight: bold;
+    padding: 10px;
+    width: 100%;
+}
