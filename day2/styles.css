@@ -1,0 +1,53 @@
+/**GENERAL**/
+
+* {
+    font-family: sans-serif;
+}
+
+html {
+    margin:5%;
+}
+
+/**HEADER**/
+
+nav>ul {
+    list-style-type: none;
+    padding: 0%;
+}
+
+nav>ul>li {
+    display:inline;
+}
+
+/**ABOUT US**/
+table {
+    table-layout: auto;
+    width: 100%;
+    text-align: center;
+}
+
+img {
+    width:100%;
+}
+
+/**CONTACT US**/
+form {
+    margin:0 auto;
+}
+
+.contact {
+    width:100%;
+    padding:10px;
+    margin:3px 0px;
+}
+/**^ Can't figure out why the select field looks smaller than the text fields**/
+
+button {
+    margin: 10px 0px;
+}
+
+/**FOOTER**/
+footer {
+    bottom:0;
+    width:100%;
+}
