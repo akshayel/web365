@@ -20,9 +20,9 @@ This project is a fun way for me to get in the practice of learning how to using
 3. Write 1 thing I wish I could do but don't know how to yet
 
 ## Current progress
-| Day 1      | Day 2 |
+| Day 1      | Day 3 |
 | ----------- | ----------- |
-| ![Day 1](/day1/day1.png "Day 1 screenshot") | ![Day 2](/day2/dogwalk.gif "Day 2 gif") |
+| ![Day 1](/day1/day1.png "Day 1 screenshot") | ![Day 3](/day3/day3.png "Day 2 gif") |
 
 ## My resources
 - [The Web Developer Bootcamp 2022](https://www.udemy.com/course/the-web-developer-bootcamp/)
@@ -33,3 +33,4 @@ This project is a fun way for me to get in the practice of learning how to using
 ## Reflections
 __Day 1__ - I wish I knew how to lay elements out on a page. I found that surprisingly difficult. Laying out a form is tough.
 __Day 2__ - HTML is easy, but CSS is a little bit more complicated. Still wish I knew how to lay out pages.
+__Day 3__ - Figured out how to have divs sit side by side, and be responsive if the screen size changes. Wish I knew how to create a nicer looking page in general.
