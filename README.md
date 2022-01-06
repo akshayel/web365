@@ -32,6 +32,11 @@ This project is a fun way for me to get in the practice of learning how to using
 
 ## Reflections
 __Day 1__ - I wish I knew how to lay elements out on a page. I found that surprisingly difficult. Laying out a form is tough.
+
 __Day 2__ - HTML is easy, but CSS is a little bit more complicated. Still wish I knew how to lay out pages.
+
 __Day 3__ - Figured out how to have divs sit side by side, and be responsive if the screen size changes. Wish I knew how to create a nicer looking page in general.
+
 __Day 4__ - Figured out CSS Flexbox! Next step is to figure out how to use and create grids, then make a full static page.
+
+__Day 5__ - Made a simple layout using CSS Grid.
