@@ -10,19 +10,18 @@
 __Written on Jan 1, 2022__ - By Jan 1, 2023, I want to have the ability to build functional Web 3 applications. 
 
 I currently know nothing about web development, so I need to start from scratch. 
-I want to challenge myself to build the best possible website in 1 hour based on what I've learned the days before.
+I want to challenge myself to create something I couldn't do before within a 1 hour time span.
 
 This project is a fun way for me to get in the practice of learning how to using HTML, CSS, and JavaScript. 
 
 ## Rules
-1. Try to build the best site or app I can in 1 hour
-2. Implement something I learned the day before
-3. Write 1 thing I wish I could do but don't know how to yet
+1. Learn 1 new thing every day
+1. Implement what I learned by creating something from it
 
 ## Current progress
-| Day 1      | Day 4 |
+| Day 1      | Day 6 |
 | ----------- | ----------- |
-| ![Day 1](/day1/day1.png "Day 1 screenshot") | ![Day 4](/day4/day4.png "Day 2 gif") |
+| ![Day 1](/day1/day1.png "Day 1 screenshot") | ![Day 6](/day6/day6.gif "Day 6 gif") |
 
 ## My resources
 - [The Web Developer Bootcamp 2022](https://www.udemy.com/course/the-web-developer-bootcamp/)
@@ -40,3 +39,5 @@ __Day 3__ - Figured out how to have divs sit side by side, and be responsive if 
 __Day 4__ - Figured out CSS Flexbox! Next step is to figure out how to use and create grids, then make a full static page.
 
 __Day 5__ - Made a simple layout using CSS Grid.
+
+__Day 6__ - Made a little toggle button using JavaScript.
