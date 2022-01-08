@@ -19,9 +19,9 @@ This project is a fun way for me to get in the practice of learning how to using
 1. Implement what I learned by creating something from it
 
 ## Current progress
-| Day 1      | Day 6 |
+| Day 1      | Day 7 |
 | ----------- | ----------- |
-| ![Day 1](/day1/day1.png "Day 1 screenshot") | ![Day 6](/day6/day6.gif "Day 6 gif") |
+| ![Day 1](/day1/day1.png "Day 1 screenshot") | ![Day 7](/day7/day7.mp4 "Day 7 video") |
 
 ## My resources
 - [The Web Developer Bootcamp 2022](https://www.udemy.com/course/the-web-developer-bootcamp/)
@@ -41,3 +41,5 @@ __Day 4__ - Figured out CSS Flexbox! Next step is to figure out how to use and c
 __Day 5__ - Made a simple layout using CSS Grid.
 
 __Day 6__ - Made a little toggle button using JavaScript.
+
+__Day 7__ - Used [this tutorial](https://www.youtube.com/watch?v=bG2BmmYr9NQ) to replicate the Chrome dinosaur game.
