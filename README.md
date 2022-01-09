@@ -43,3 +43,5 @@ __Day 5__ - Made a simple layout using CSS Grid.
 __Day 6__ - Made a little toggle button using JavaScript.
 
 __Day 7__ - Used [this tutorial](https://www.youtube.com/watch?v=bG2BmmYr9NQ) to replicate the Chrome dinosaur game.
+
+__Day 8__ - Made an alert for a signup button for a form.
