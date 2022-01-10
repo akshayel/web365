@@ -1,0 +1,41 @@
+.header-nav {
+    background-color: #aef3de;
+}
+
+.header-nav a {
+    color: green;
+}
+
+/*ATTRIBUTE SELECTOR*/
+input[type="password"] {
+    color: #1e8876;
+}
+
+.tag {
+    background-color: #546712;
+    font-size: 50px;
+    color: #fff;
+}
+
+/*ATTRIBUTE SELECTOR - CONTAINS*/
+nav a[href*="#"] {
+    background-color: plum;
+}
+
+#one {
+    font-size: 40px;
+}
+
+#two {
+    font-size: 50px;
+    color: #ff2351;
+}
+
+nav ul {
+    background-color: pink;
+}
+
+nav > ol > li > a {
+    font-weight: bolder;
+    color: purple;
+}
