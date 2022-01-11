@@ -1,0 +1,16 @@
+a:hover {
+    color: aquamarine;
+}
+
+a:active {
+    color: orchid;
+}
+
+p::first-letter {
+    font-size: 30px;
+    color: red;
+}
+
+.text::first-line {
+    color: royalblue;
+}

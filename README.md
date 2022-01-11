@@ -2,7 +2,6 @@
 
 - [Purpose](#purpose)
 - [Rules](#rules)
-- [Progress](#current-progress)
 - [Resources](#my-resources)
 - [Reflections](#reflections)
 
@@ -18,10 +17,6 @@ This project is a fun way for me to get in the practice of learning how to using
 1. Learn 1 new thing every day
 1. Implement what I learned by creating something from it
 
-## Current progress
-| Day 1      | Day 7 |
-| ----------- | ----------- |
-| ![Day 1](/day1/day1.png "Day 1 screenshot") | ![Day 7](/day7/day7.mp4 "Day 7 video") |
 
 ## My resources
 - [The Web Developer Bootcamp 2022](https://www.udemy.com/course/the-web-developer-bootcamp/)
@@ -47,3 +42,5 @@ __Day 7__ - Used [this tutorial](https://www.youtube.com/watch?v=bG2BmmYr9NQ) to
 __Day 8__ - Made an alert for a signup button for a form.
 
 __Day 9__ - Learned about the different types of CSS selectors.
+
+__Day 10__ - Learned about psuedo classes and psuedo elements today.
