@@ -1,0 +1,42 @@
+body {
+    font-family: sans-serif;
+}
+
+.items {
+    width: 300px;
+    height: 150px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.item-1 {
+    background-color: #cb997e;
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 50% 20% / 10% 40%;
+}
+
+.item-2 {
+    background-color: #ddbea9;
+    border-width: 13px;
+    border-color: black;
+    border-style: ridge;
+}
+
+.item-3 {
+    background-color: #ffe8d6;
+    border: 13px dotted black;
+}
+
+.item-4 {
+    background-color: #b7b7a4;
+    border: 14px groove black;
+}
+
+.item-5 {
+    background-color: #a5a58d;
+    border-width: 15px;
+    border-color: black;
+    border-style: dashed double none;
+}

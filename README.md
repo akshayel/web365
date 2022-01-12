@@ -44,3 +44,5 @@ __Day 8__ - Made an alert for a signup button for a form.
 __Day 9__ - Learned about the different types of CSS selectors.
 
 __Day 10__ - Learned about psuedo classes and psuedo elements today.
+
+__Day 11__ - Learned about borders and boxes. Learned how to use border radius to create interesting shapes.
