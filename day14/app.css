@@ -1,0 +1,45 @@
+#hover div {
+    height: 100px;
+    width: 100px;
+    background-color: #eeaaff;
+    transition: 1s ease-in, border-radius 3s;
+}
+
+#hover div:hover {
+    border-radius: 50%;
+    height: 180px;
+    width: 180px;
+    background-color: #4399ae;
+}
+
+.items {
+    height: 50px;
+    width: 300px;
+    background-color: rgb(247, 189, 113);
+    margin: 20px 0;
+    transition: margin-left 5s;
+}
+
+.items:hover {
+    margin-left: 600px;
+}
+
+.item-1 {
+    transition-timing-function: ease-out;
+}
+
+.item-2 {
+    transition-timing-function: ease-in-out;
+}
+
+.item-3 {
+    transition-timing-function: steps(6);
+}
+
+.item-4 {
+    transition-timing-function: cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+
+.item-5 {
+    transition-timing-function: cubic-bezier(.07,1.44,.99,-0.74);
+}
