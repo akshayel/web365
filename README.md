@@ -54,3 +54,5 @@ __Day 13__ - Learned how to use the position property.
 __Day 14__ - Learned how to use the transition property.
 
 __Day 15__ - Learned how to use the transform property. Also learned how to add Google fonts.
+
+__Day 16__ - Created a gallery that frames each photo when you hover over it.
