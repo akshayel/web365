@@ -56,3 +56,5 @@ __Day 14__ - Learned how to use the transition property.
 __Day 15__ - Learned how to use the transform property. Also learned how to add Google fonts.
 
 __Day 16__ - Created a gallery that frames each photo when you hover over it.
+
+__Day 17__ - Built on the gallery I made yesterday by adding flexbox.
