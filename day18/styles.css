@@ -1,0 +1,34 @@
+html {
+    margin: 5%;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+nav > ul {
+    list-style-type: none;
+    padding: 0%;
+}
+
+nav > ul > li {
+    display: inline;
+}
+
+.services-container {
+    text-align: center;
+}
+
+.services {
+    border: 1px solid black;
+    display: inline;
+    width: 30%;
+    margin: 1%;
+}
+
+.services > ul {
+    text-align: left;
+}
+
+@media (min-width:600px) and (max-width:800px) {
+    h1 {
+        color: purple;
+    }
+}

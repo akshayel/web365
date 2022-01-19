@@ -58,3 +58,5 @@ __Day 15__ - Learned how to use the transform property. Also learned how to add 
 __Day 16__ - Created a gallery that frames each photo when you hover over it.
 
 __Day 17__ - Built on the gallery I made yesterday by adding flexbox.
+
+__Day 18__ - Took my first steps into using media queries.
