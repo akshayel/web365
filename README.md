@@ -60,3 +60,5 @@ __Day 16__ - Created a gallery that frames each photo when you hover over it.
 __Day 17__ - Built on the gallery I made yesterday by adding flexbox.
 
 __Day 18__ - Took my first steps into using media queries.
+
+__Day 19__ - Made a responsive nav bar following the Udemy course tutorial.
