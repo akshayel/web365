@@ -62,3 +62,5 @@ __Day 17__ - Built on the gallery I made yesterday by adding flexbox.
 __Day 18__ - Took my first steps into using media queries.
 
 __Day 19__ - Made a responsive nav bar following the Udemy course tutorial.
+
+__Day 20__ - Got started on a pricing panel project in the Udemy course.
