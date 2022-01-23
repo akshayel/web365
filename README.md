@@ -64,3 +64,7 @@ __Day 18__ - Took my first steps into using media queries.
 __Day 19__ - Made a responsive nav bar following the Udemy course tutorial.
 
 __Day 20__ - Got started on a pricing panel project in the Udemy course.
+
+__Day 21__ - Finished pricing panel project in the Udemy course.
+
+__Day 22__ - Started a static site to reinforce all the stuff I learned so far.

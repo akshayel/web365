@@ -1,0 +1,133 @@
+/*GENERAL*/
+body {
+    font-family: 'Raleway', serif;
+    margin: 0;
+}
+
+header, section {
+    height: 100vh;
+}
+
+/*SECTION 1 - HEADER & NAVIGATION*/
+
+/*Navigation*/
+nav {
+    text-decoration: none;
+    margin: 0 8px;
+}
+
+img {
+    max-width: 9vw;
+    margin-top: 8px;
+}
+
+/*Header text & image*/
+
+header {
+    background-image: url("images/background-cat.jpg");
+    background-size: cover;
+    color: #7d4f3d;
+}
+
+h1 {
+    font-weight: 900;
+    font-size: 4.2em;
+}
+
+h2 {
+    font-weight: 800;
+    font-size: 1.4em;
+    margin-top: -10px;
+}
+
+#home-text {
+    margin: 0 auto;
+    max-width: 75%;
+    height: 70%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+/*Get started button*/
+#home-text a {
+    background-color: #927a76;
+    color: #F5EEDC;
+    max-width: 15vw;
+    padding: 15px;
+    border-radius: 5px;
+    text-align: center;
+    margin: 25px auto 0px;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+#home-text a:hover {
+    background-color: #fab156;
+}
+
+#home-text a:focus {
+    background-color: #fab156;
+}
+
+/*Logo*/
+
+
+/*SECTION 2 - VALUE PROP*/
+.value {
+    background-color: #C7C9D8;
+}
+
+
+/*SECTION 3 - PRICING*/
+
+
+/*SECTION 4 - FOOTER*/
+
+
+/*RESPONSIVE CSS*/
+
+/*Mobile*/
+@media (max-width: 415px) {
+    .header {
+        background-image: url(images/background-cat-mobile.jpg);
+    }
+    img {
+        max-width: 24vw;
+        margin-top: 8px;
+    }
+    h1 {
+        font-weight: 900;
+        font-size: 3em;
+    }
+    
+    h2 {
+        font-weight: 800;
+        font-size: 1em;
+        margin-top: -10px;
+    }
+    #home-text a {
+        max-width: 25vw;
+    }
+}
+
+/*Web*/
+@media (min-width: 1042px) {
+    h1 {
+        font-weight: 900;
+        font-size: 3.6em;
+    }
+    
+    h2 {
+        font-weight: 800;
+        font-size: 1.2em;
+        margin-top: -10px;
+    }
+}
+
+@media (min-width: 1513px) {
+    .header {
+        background-image: url(images/background-cat-web.jpg);
+    }
+}
