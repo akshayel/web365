@@ -68,3 +68,7 @@ __Day 20__ - Got started on a pricing panel project in the Udemy course.
 __Day 21__ - Finished pricing panel project in the Udemy course.
 
 __Day 22__ - Started a static site to reinforce all the stuff I learned so far.
+
+__Day 23__ - Day 2 of static site, ran into issues with flexbox.
+
+__Day 24__ - Got started with Bootstrap.
