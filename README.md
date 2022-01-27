@@ -74,3 +74,5 @@ __Day 23__ - Day 2 of static site, ran into issues with flexbox.
 __Day 24__ - Got started with Bootstrap.
 
 __Day 25__ - Looked into Bootstrap typography.
+
+__Day 26__ - Bootstrap grids
