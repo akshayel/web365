@@ -80,3 +80,5 @@ __Day 26__ - Bootstrap grids
 __Day 27__ - Bootstrap forms
 
 __Day 28__ - Bootstrap navbars
+
+__Day 29__ - JavaScript - basic math operations and variables
