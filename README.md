@@ -82,3 +82,5 @@ __Day 27__ - Bootstrap forms
 __Day 28__ - Bootstrap navbars
 
 __Day 29__ - JavaScript - basic math operations and variables
+
+__Day 30__ - Javascript - variable types, boolean variables
