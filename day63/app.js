@@ -33,11 +33,9 @@ const movies = [
 ]
 
 // What the map method looks like using regular function syntax.
-
 movies.map(function(movie) {
     return `${movie.title} - ${movie.score/10}`;
 })
 
 // What the map method looks like using the arrow function
-
 const newMovies = movies.map(movie=>`${movie.title} - ${movie.score/10}`);
