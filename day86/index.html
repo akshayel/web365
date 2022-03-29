@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Input Bubbling</title>
+
+    <style>
+        .hide {
+            display:none;
+        }
+    </style>
+</head>
+
+<body>
+    <!--If you have events nested inside other events, all of those events will fire. In the case below, if you click the button, you will also get the paragraph and section alerts. The order is from the bottom to the top, so button clicked -> paragraph clicked -> section clicked.-->
+    <section onclick="alert('section clicked')">
+        <p onclick="alert('paragraph clicked')">
+            Hello. My name is Gary. Click the button here:
+            <button onclick="alert('button clicked')">Click</button>
+        </p>
+    </section>
+
+    <!--It's the same situation here. When you click the button, it will trigger the event listener associated with the container too. You can use stopPropagation() to fix this.-->
+    <div id="container">
+        Click to Hide
+        <button>Change Color</button>
+    </div>
+    
+
+    <script src="app.js"></script>
+</body>
+
+</html>
