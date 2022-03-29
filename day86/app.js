@@ -3,7 +3,7 @@ const button = document.querySelector('#container button');
 
 button.addEventListener('click', function(event){
     div.style.backgroundColor = makeRandColor();
-    event.stopPropagation();
+    event.stopPropagation(); //this stops the below function from triggering
 });
 
 div.addEventListener('click', function(){
